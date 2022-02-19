@@ -1,0 +1,13 @@
+E:\5th\C#\DB_Conn_01\bin\Debug\DB_Conn_01.exe.config
+E:\5th\C#\DB_Conn_01\bin\Debug\DB_Conn_01.exe
+E:\5th\C#\DB_Conn_01\bin\Debug\DB_Conn_01.pdb
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.csproj.AssemblyReference.cache
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.Form1.resources
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.Properties.Resources.resources
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.csproj.GenerateResource.cache
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.csproj.CoreCompileInputs.cache
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.exe
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.pdb
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.Form2.resources
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.Form3.resources
+E:\5th\C#\DB_Conn_01\obj\Debug\DB_Conn_01.Form4.resources

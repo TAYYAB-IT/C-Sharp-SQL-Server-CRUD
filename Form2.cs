@@ -32,7 +32,7 @@ namespace DB_Conn_01
         //Convert TO Date
         private string convert_to_date(string date)
         {
-            string[] str = date.Split('/');
+            string[] str = date.Split('-');
             string month = "";
             switch (Int32.Parse(str[1]))
             {
